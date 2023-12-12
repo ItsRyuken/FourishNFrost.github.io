@@ -62,8 +62,8 @@
 		<p>In the field of web design, I aspire to create intuitive and accessible user interfaces that not only meet clients' objectives but also elevate the overall user experience. Simultaneously, my fascination with game design fuels my desire to bring virtual worlds to life, fostering immersive and captivating gameplay.</p>
     </section>
 
-    <footer>
-        <p>Kya Moore</p>
+   <footer>
+        <p>Find me on GitHub: <a href="https://itsryuken.github.io/" target="_blank">ItsRyuken</a></p>
     </footer>
 </body>
 </html>
